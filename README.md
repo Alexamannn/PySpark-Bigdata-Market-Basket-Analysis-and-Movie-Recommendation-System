@@ -1,4 +1,5 @@
-# PySpark-Bigdata-Market-Basket-Analysis-and-Movie-Recommendation-System
+# Fast Algorithm for Market Basket Analysis with N-GRAMS using Massive Dataset and Pyspark
+
 NGRAMS Frequency Mining for Market Basket Analysis with Big Data
 
 
